@@ -1,5 +1,6 @@
 <script>
   import { Router, Link, Route } from "svelte-routing";
+    import Footer from "./lib/Footer.svelte";
   import Nav from "./lib/Nav.svelte";
   import Home from "./routes/Home.svelte";
   import Mult from "./routes/Mult.svelte";
@@ -15,4 +16,5 @@
       <Route path="share" component="{Share}" />
       <Route path="/"><Home /></Route>
     </div>
+    <Footer />
   </Router>

@@ -29,6 +29,7 @@
   details[role=list] {
     box-shadow: 0 !important;
     outline: none !important;
+    margin: 0;
   }
 
 </style>
