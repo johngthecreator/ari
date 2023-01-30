@@ -1,4 +1,6 @@
 <script>
+    import Footer from "../lib/Footer.svelte";
+
 </script>
 <main>
     <div id="heroBanner">
@@ -20,6 +22,7 @@
         </div>
     </div>
 </main>
+<Footer />
 <style>
     div#heroBanner{
         background-color: #BCB6FF;
