@@ -37,7 +37,7 @@
         display: flex;
         flex-direction: row;
         justify-content: space-between;
-        margin-top: 100px;
+        margin-top: 50px;
     }
     img.infoImg {
         width: 50%;
