@@ -130,7 +130,7 @@
         font-size: 50px;
         }
         div#heroBanner{
-        align-items: start;
+        align-items: center;
         }
         .features p.featuresBlurb {
         width: auto;
