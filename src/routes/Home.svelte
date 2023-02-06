@@ -83,12 +83,16 @@
         flex-direction: column;
         align-items: center;
         text-align: center;
-        padding: 15px;
-        margin: 15px;
+        padding: 30px;
+        background-color: white;
     }
 
     .features p.featuresBlurb {
         width: 600px;
+    }
+
+    .features h1, .features p, .features h3{
+        color: black;
     }
 
     div.cardContainer {
