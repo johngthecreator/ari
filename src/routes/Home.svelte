@@ -51,7 +51,7 @@
         text-align: center;
         background-color: white;
         padding: 15px;
-        background-image: url("./cube.webp");
+        background-image: url(./cube.webp);
         height: 800px;
     }
     #heroBanner h1 {
@@ -124,9 +124,6 @@
         }
         div.infoText {
         width: 100%;
-        }
-        img.infoImg {
-            width: 100%;
         }
         #heroBanner h1 {
         color: black;
