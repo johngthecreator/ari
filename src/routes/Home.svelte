@@ -51,7 +51,7 @@
         text-align: center;
         background-color: white;
         padding: 15px;
-        background-image: url("cube.svg");
+        background-image: url("cube.webp");
         height: 800px;
     }
     #heroBanner h1 {
@@ -135,14 +135,7 @@
         font-size: 50px;
         }
         div#heroBanner{
-        display: flex;
         align-items: start;
-        justify-content: center;
-        text-align: center;
-        background-color: white;
-        padding: 15px;
-        background-image: url("cube.svg");
-        height: 600px;
         }
         .features p.featuresBlurb {
         width: auto;
