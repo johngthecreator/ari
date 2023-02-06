@@ -11,24 +11,24 @@
             <h1>What Is Ari?</h1>
             <p>Ari is an innovative web application that utilizes short and engaging games to reinforce mathematical concepts. It helps users solidify their understanding of mathematical principles in a fun and interactive way, making the learning process enjoyable and memorable. With its focus on practical application and interactive gameplay, Ari is changing the way people think about mathematics and learning.</p>
         </div>
-        <img src="sitting.webp" alt="person sitting"/>
+        <img src="./sitting.webp" alt="person sitting"/>
     </div>
     <div class="features">
             <h1>Learn More.</h1>
             <p class="featuresBlurb">Ari is designed to fit the fast-paced and demanding environments we live and work in. With its efficient approach to learning, Ari is the perfect solution for anyone looking to improve their mathematical understanding in today's fast-paced world.</p>
             <div class="cardContainer">
                 <div class="infoCards">
-                    <img src="pens.webp" alt="pens"/>
+                    <img src="./pens.webp" alt="pens"/>
                     <h3>Study Smart</h3>
                     <p>Ari revolutionizes the way you approach mental math by using interactive exercises and personalized learning paths to target your unique strengths and weaknesses. Say goodbye to rote memorization and hello to a more efficient and enjoyable studying experience with Ari.</p>
                 </div>
                 <div class="infoCards">
-                    <img src="books.webp" alt="books" />
+                    <img src="./books.webp" alt="books" />
                     <h3>Guided Lessons</h3>
                     <p>Guided lessons are tailored to your specific needs, helping you quickly identify and address areas for improvement in your mental math skills. Ari's lessons provide a supportive and effective learning environment for anyone looking to boost their arithmetic abilities.</p>
                 </div>
                 <div class="infoCards">
-                    <img src="test.webp" alt="test"/>
+                    <img src="./test.webp" alt="test"/>
                     <h3>Micro Quizzes</h3>
                     <p>Ari's micro quizzing system is designed to optimize memorization and retention through frequent, bite-sized assessments. Ari ensures that mental math concepts are ingrained in your long-term memory for effortless recall in real-world situations.</p>
                 </div>
@@ -51,7 +51,7 @@
         text-align: center;
         background-color: white;
         padding: 15px;
-        background-image: url("cube.webp");
+        background-image: url("./cube.webp");
         height: 800px;
     }
     #heroBanner h1 {
@@ -70,7 +70,6 @@
         flex-direction: row;
         justify-content: center;
         align-items: center;
-        margin-top: 50px;
         background-color: #9381FF;
         height: 500px;
     }
@@ -102,7 +101,6 @@
     div.infoCards {
         height: auto;
         width: 300px;
-        /* border: 2px solid #BCB6FF; */
         border-radius: 10px;
         padding: 15px;
         margin: 10px;
